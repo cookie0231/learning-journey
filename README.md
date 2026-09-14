@@ -24,3 +24,7 @@ learning-journey/
 - LeetCode: 0 / 200
 - 项目: 0 / 3
 - 连续提交: Day 1
+
+## C++ 学习练习
+
+[查看按 Day 01—Day 04 整理的 C++ 练习](cpp-basics/README.md)：基础输入输出、菜单式计算器、猜数字游戏、成绩排序与统计。

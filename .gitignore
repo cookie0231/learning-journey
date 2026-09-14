@@ -19,3 +19,10 @@ Thumbs.db
 
 # Env
 .env
+
+# C++ build outputs
+*.exe
+*.o
+*.obj
+*.pdb
+.build/
