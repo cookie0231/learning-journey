@@ -27,4 +27,4 @@ learning-journey/
 
 ## C++ 学习练习
 
-[查看按 Day 01—Day 04 整理的 C++ 练习](cpp-basics/README.md)：基础输入输出、菜单式计算器、猜数字游戏、成绩排序与统计。
+[查看按 Day 01—Day 05 整理的 C++ 练习](cpp-basics/README.md)：基础输入输出、菜单式计算器、猜数字游戏、成绩排序与统计、函数与指针及分文件编写。
